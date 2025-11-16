@@ -54,7 +54,8 @@ Langkah-langkah yang dilakukan dalam praktikum ini adalah sebagai berikut:
 5. Amati hasil pembacaan suhu yang ditampilkan di serial monitor Arduino.
 
 ### 6.Screenshoot Posedur Praktikum
-![Uploading prosedur1.jpg…]()
+![Screenshot Prosedur Praktikum](https://github.com/AlipFarhandanaLubis/repository_name/raw/main/prosedur1.jpg)
+
 
 ### 7. Source Code Arduino
 
