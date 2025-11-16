@@ -53,11 +53,7 @@ Langkah-langkah yang dilakukan dalam praktikum ini adalah sebagai berikut:
 4. Upload program ke Arduino board menggunakan kabel USB.
 5. Amati hasil pembacaan suhu yang ditampilkan di serial monitor Arduino.
 
-### 6.Screenshoot Posedur Praktikum
-![Screenshot Prosedur Praktikum](https://github.com/AlipFarhandanaLubis/repository_name/raw/main/prosedur1.jpg)
-
-
-### 7. Source Code Arduino
+### 6. Source Code Arduino
 
 Berikut adalah contoh source code untuk membaca nilai suhu dari sensor LM35 dan menampilkannya pada Serial Monitor:
 
