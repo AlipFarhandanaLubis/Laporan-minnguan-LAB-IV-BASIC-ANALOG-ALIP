@@ -55,12 +55,7 @@ Langkah-langkah yang dilakukan dalam praktikum ini adalah sebagai berikut:
 
 ### 6. Screenshot Prosedur Praktikum
 
-#### Prosedur 1
-![Screenshot Prosedur 1](https://github.com/USERNAME/REPO_NAME/raw/main/prosedur1.jpg)
-https://github.com/AlipFarhandanaLubis/Laporan-minnguan-LAB-IV-BASIC-ANALOG-ALIP/commit/4db07f2c0e93ea3cdc89a93da150a47f6f387250
-
-#### Prosedur 2
-![Screenshot Prosedur 2](https://github.com/USERNAME/REPO_NAME/raw/main/prosedur2.jpg)
+![prosedur1](https://github.com/user-attachments/assets/e4ca3bc8-efbc-4cdd-9e9e-6653c79d3ed7)
 
 
 ### 6. Source Code Arduino
