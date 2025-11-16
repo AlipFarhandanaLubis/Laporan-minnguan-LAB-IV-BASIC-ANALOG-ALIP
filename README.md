@@ -82,3 +82,4 @@ void loop() {
   // Delay 1 detik sebelum pembacaan berikutnya
   delay(1000);
 }
+![WhatsApp Image 2025-11-16 at 23 09 34_13848110](https://github.com/user-attachments/assets/34e8b02b-42b6-4032-a8c8-bcad446a05e2)
